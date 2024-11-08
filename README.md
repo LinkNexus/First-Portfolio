@@ -21,7 +21,7 @@ A simple portfolio project made with juts plain HTML and CSS. First project to g
 
 ## Demo
 
-Check out the live demo here: [Live Demo URL](#) (replace `#` with your live demo link if hosted).
+Check out the live demo here: [Live Demo URL](https://firstportfolio.levynkeneng.dev/).
 
 ---
 
