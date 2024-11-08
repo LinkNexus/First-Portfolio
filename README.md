@@ -37,8 +37,8 @@ Nothing special, just a Browser up to date.
 
 1. Just clone the repository:
     ```bash
-       git clone https://github.com/LinkNexus/ReactTodoList.git
-    cd ReactTodoList
+       git clone https://github.com/LinkNexus/First-Portfolio.git
+    cd FirstPolio
     ```
 ---
 
